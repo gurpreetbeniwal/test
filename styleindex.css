@@ -367,6 +367,9 @@ li.li3:hover,li.li4:hover,li.li5:hover{
     .hr{
         margin-top: -8rem;
       }
+    .ul{
+        background-color: black;
+    }
 }
 @media (max-width:566px ) {
     html{
