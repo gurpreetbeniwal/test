@@ -25,6 +25,7 @@ body{
     width: 22%;
     height: auto;
     border: 0.001rem ;
+   
 
 }
 .li2{
@@ -40,6 +41,7 @@ body{
     border: 0.1rem solid;
     text-align: center;
     margin-top: 16rem;
+      background-color: red;
     
 }
 .li4{
