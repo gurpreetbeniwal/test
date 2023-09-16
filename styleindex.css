@@ -277,6 +277,7 @@ li.li3:hover,li.li4:hover,li.li5:hover{
     .li4{
         height: 7rem;
         width: 18%;
+         background-color: red;
     }
     .li5{
         height: 7rem;
